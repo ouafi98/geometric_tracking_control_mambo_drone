@@ -1,7 +1,8 @@
 # geometric_tracking_control_mambo_drone
 
 ```
-an implementation of a geometric tracking control law on parrot mambo mini-drone using simulink. The control was both tested in simulation and on a real drone. 
+an implementation of a geometric tracking control law on parrot mambo mini-drone using simulink.
+The control was both tested in simulation and on a real drone. 
 ```
 
 ![preview](https://github.com/ouafi98/geometric_tracking_control_mambo_drone/blob/master/gtc_giff.gif)
