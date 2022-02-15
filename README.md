@@ -12,13 +12,17 @@ The control algorithm was both tested in simulation and on a real drone.
 Matlab r2021a at least.
 simulink support package parrot mambo. 
 
-A detail pdf showing how to deploy code on a real drone is coming soon.
-You can also look for matlab tutorial for doing that.
+If you don't have Matlab r2021a at least, feel free to reach me I'll downgrade 
+the version for you ;-)
+
 ```
 
 # How to use ?
 ```
 Open the file parrotMinidroneHover.prj.
+
+A detail pdf showing how to deploy code on a real drone is coming soon.
+You can also look for matlab tutorial for doing that.
 ```
 
 # References
