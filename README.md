@@ -2,7 +2,7 @@
 
 ```
 an implementation of a geometric tracking control law on parrot mambo mini-drone using simulink.
-The control was both tested in simulation and on a real drone. 
+The control algorithm was both tested in simulation and on a real drone. 
 ```
 
 ![preview](https://github.com/ouafi98/geometric_tracking_control_mambo_drone/blob/master/gtc_giff.gif)
@@ -11,6 +11,9 @@ The control was both tested in simulation and on a real drone.
 ```
 Matlab r2021a at least.
 simulink support package parrot mambo. 
+
+A detail pdf showing how to deploy code on a real drone is coming soon.
+You can also look for matlab tutorial for doing that.
 ```
 
 # How to use ?
